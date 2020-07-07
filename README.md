@@ -1,0 +1,2 @@
+# Constructor_in_c-
+Constructor is a special method which is called by default when a object is created. It's main functionality is that it initialises the object of the class. The defalut Constructor has the same name as that of the class itself. the constructor doesn't possess a return type.  When we do not create any constructor in our class, C++ compiler generates a default constructor and insert it into our code. The same does not apply to member functions.
